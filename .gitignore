@@ -1,0 +1,8 @@
+﻿venv/
+dataset/
+checkpoints/
+results/
+__pycache__/
+*.pyc
+*.pth
+.DS_Store
